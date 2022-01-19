@@ -1,10 +1,22 @@
+.header-container{
+    border-bottom: solid 1px #ff1493;
+}
+
 .header-container h1{
     letter-spacing: 3px;
     font-size: 48px;
     font-weight: bolder;
+    color: white;
 }
 
 .header-container h3{
     letter-spacing: 8px;
     font-weight: 500;
+    color: #ff1493;
+}
+
+.header-container p{
+    font-size: 36px;
+    font-weight: bold;
+    color: white;
 }
