@@ -1,0 +1,98 @@
+[
+    {
+        "name": "God of War",
+        "image": "https://upload.wikimedia.org/wikipedia/en/a/a7/God_of_War_4_cover.jpg",
+        "relese": "14 Jan, 2022",
+        "Developer": "Santa Monica Studio",
+        "Publisher": "PlayStation PC LLC",
+        "price": 49.99
+    },
+    {
+        "name": "Horizon Zero Dawn™ Complete Edition",
+        "image": "https://upload.wikimedia.org/wikipedia/en/9/93/Horizon_Zero_Dawn.jpg",
+        "relese": "7 Aug, 2020",
+        "Developer": "Guerrilla",
+        "Publisher": "PlayStation PC LLC",
+        "price": 19.99
+    },
+    {
+        "name": "The Witcher® 3: Wild Hunt",
+        "image": "https://upload.wikimedia.org/wikipedia/en/0/0c/Witcher_3_cover_art.jpg",
+        "relese": "18 May, 2015",
+        "Developer": "CD PROJEKT RED",
+        "Publisher": "CD PROJEKT RED",
+        "price": 39.99
+    },
+    {
+        "name": "Cyberpunk 2077",
+        "image": "https://upload.wikimedia.org/wikipedia/en/9/9f/Cyberpunk_2077_box_art.jpg",
+        "relese": "10 Dec, 2020",
+        "Developer": "CD PROJEKT RED",
+        "Publisher": "CD PROJEKT RED",
+        "price": 29.99
+    },
+    {
+        "name": "Red Dead Redemption 2",
+        "image": "https://upload.wikimedia.org/wikipedia/en/4/44/Red_Dead_Redemption_II.jpg",
+        "relese": "5 Dec, 2019",
+        "Developer": "Rockstar Games",
+        "Publisher": "Rockstar Games",
+        "price": 22.49
+    },
+    {
+        "name": "Fallout 4",
+        "image": "https://upload.wikimedia.org/wikipedia/en/7/70/Fallout_4_cover_art.jpg",
+        "relese": "10 Nov, 2015",
+        "Developer": "Bethesda Games Studios",
+        "Publisher": "Bethesda Softworks",
+        "price": 12.99
+    },
+    {
+        "name": "DEATH STRANDING",
+        "image": "https://upload.wikimedia.org/wikipedia/en/2/22/Death_Stranding.jpg",
+        "relese": "14 Jan, 2022",
+        "Developer": "KOJIMA PRODUCTIONS",
+        "Publisher": "505 Games",
+        "price": 59.99
+    },
+    {
+        "name": "Monster Hunter: World",
+        "image": "https://upload.wikimedia.org/wikipedia/en/1/1b/Monster_Hunter_World_cover_art.jpg",
+        "relese": "9 Aug, 2018",
+        "Developer": "CAPCOM Co., Ltd.",
+        "Publisher": "CAPCOM Co., Ltd.",
+        "price": 29.99
+    },
+    {
+        "name": "The Elder Scrolls V: Skyrim Special Edition",
+        "image": "https://upload.wikimedia.org/wikipedia/en/1/15/The_Elder_Scrolls_V_Skyrim_cover.png",
+        "relese": "28 Oct, 2016",
+        "Developer": "Bethesda Games Studios",
+        "Publisher": "Bethesda Softworks",
+        "price": 24.99
+    },
+    {
+        "name": "ELDEN RING",
+        "image": "https://upload.wikimedia.org/wikipedia/en/b/b9/Elden_Ring_Box_art.jpg",
+        "relese": "25 Feb, 2022",
+        "Developer": "FromSoftware Inc.",
+        "Publisher": "FromSoftware Inc.",
+        "price": 49.99
+    },
+    {
+        "name": "Dying Light 2 Stay Human",
+        "image": "https://upload.wikimedia.org/wikipedia/en/6/6d/Dying_Light_2_cover_art.jpg",
+        "relese": "4 Feb, 2022",
+        "Developer": "Techland",
+        "Publisher": "Techland",
+        "price": 39.99
+    },
+    {
+        "name": "Frostpunk",
+        "image": "https://upload.wikimedia.org/wikipedia/en/a/a3/Frostpunk_cover_art.jpg",
+        "relese": "24 Apr, 2018",
+        "Developer": "11 bit studios",
+        "Publisher": "11 bit studios",
+        "price": 10.49
+    }
+]
