@@ -1,0 +1,32 @@
+.cart-con{
+    margin-left: 30px;
+    padding: 20px;
+    border: solid 1px white;
+    border-radius: 10px;
+    background-color: #2b2b2b;
+}
+
+.cart-con h4{
+    font-weight: 200;
+}
+
+.cart-con .cost-table{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+
+.cart-con .cost-table .title{
+    text-align: left;
+}
+
+.cart-con .cost-table .number{
+    text-align: right;
+}
+
+.cart-con .cost-table .title h5{
+    font-weight: 200;
+}
+
+.cart-con .cost-table .number h5{
+    font-weight: 200;
+}
