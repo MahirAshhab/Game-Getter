@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Game-Getter/static/css/main.e743ece5.css",
+    "main.js": "/Game-Getter/static/js/main.d2735cc2.js",
+    "static/js/787.25abe9ed.chunk.js": "/Game-Getter/static/js/787.25abe9ed.chunk.js",
+    "index.html": "/Game-Getter/index.html",
+    "main.e743ece5.css.map": "/Game-Getter/static/css/main.e743ece5.css.map",
+    "main.d2735cc2.js.map": "/Game-Getter/static/js/main.d2735cc2.js.map",
+    "787.25abe9ed.chunk.js.map": "/Game-Getter/static/js/787.25abe9ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e743ece5.css",
+    "static/js/main.d2735cc2.js"
+  ]
+}
